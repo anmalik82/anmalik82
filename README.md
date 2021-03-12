@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Ali and has been living in NL.
+- 👋 Hi, I’m Ali and, have been living in NL since 2007.
 - 👀 I’m interested in Frontend development.
 - 🌱 I’m currently learning React.
 - 💞️ I’m looking for a new challenge.
